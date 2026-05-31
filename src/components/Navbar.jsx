@@ -127,7 +127,7 @@ export default function Navbar() {
             </button>
 
             {/* Plan CTA — desktop only */}
-            <NavLink to="/discover" className="btn btn--primary navbar__cta">
+            <NavLink to="/plan-visit" className="btn btn--primary navbar__cta">
               Plan Your Visit
             </NavLink>
 
